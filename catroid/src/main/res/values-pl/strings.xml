@@ -2054,4 +2054,6 @@ Jeśli jednak nie chcesz tego robić, możesz skorzystać z naszych bezpłatnych
     <string name="particle_effects_additive_on">włącz</string>
     <string name="particle_effects_additive_off">wyłącz</string>
     <string name="set_particle_color_to">Ustaw kolor cząsteczki na</string>
+    <string name="undo_sort">Cofnij sortowanie</string>
+    <string name="sort">Sortuj</string>
 </resources>
